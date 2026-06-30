@@ -1,0 +1,16 @@
+# Chaves e segredos — NUNCA versionar
+*.pem
+*.key
+.env
+secrets*
+
+# Sistema / editores
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
+
+# Saídas locais
+*.log
+*.tmp
